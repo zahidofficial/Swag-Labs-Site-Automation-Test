@@ -12,8 +12,13 @@ Q2| Log in with standard_user. Then, from the hamburger menu, reset the App Stat
 
 Q3| Login with performance_glitch_user and reset the App State. Then filter by name (Z to A) and select the first product into the cart. Then navigate up to the final checkout page and verify all the products' names and the total price. Then finish the purchase journey and verify the successful order message. Then, reset the App State again and log out.
 
-## To run the project
-Question-1: npm run wdio
+### ✅ How to Run Each Question
+
+**Question-1:**  
+```bash
+npm run wdio
+
+Question-1: npm run wdio 
 Question-2: npm run menuAndPurchase
 Question-3: npm run accountAndPurchase
 
