@@ -14,13 +14,10 @@ Q3| Login with performance_glitch_user and reset the App State. Then filter by n
 
 ### ✅ How to Run Each Question
 
-**Question-1:**  
-```bash
-npm run wdio
-
-Question-1: npm run wdio 
-Question-2: npm run menuAndPurchase
-Question-3: npm run accountAndPurchase
+```markdown
+Question-1: `npm run wdio`  
+Question-2: `npm run menuAndPurchase`  
+Question-3: `npm run accountAndPurchase`
 
 ## Clone Locally
 ```bash
