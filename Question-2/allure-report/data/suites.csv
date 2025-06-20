@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12477","should complete checkout process","","Fri Jun 20 19:57:13 GMT+06:00 2025","passed","Fri Jun 20 19:57:26 GMT+06:00 2025","","E2E Checkout Flow","",""
+"","4397","Logged in with standard user","","Fri Jun 20 19:57:09 GMT+06:00 2025","passed","Fri Jun 20 19:57:13 GMT+06:00 2025","","Standard user Login","",""

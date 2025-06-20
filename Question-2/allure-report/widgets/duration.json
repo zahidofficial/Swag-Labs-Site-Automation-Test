@@ -1,0 +1,1 @@
+[{"uid":"62d5a08d0a15d0ad","name":"should complete checkout process","time":{"start":1750427833545,"stop":1750427846022,"duration":12477},"status":"passed","severity":"normal"},{"uid":"7e7f1248c9636d66","name":"Logged in with standard user","time":{"start":1750427829147,"stop":1750427833544,"duration":4397},"status":"passed","severity":"normal"}]

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4420","Should complete checkout process ","","Fri Jun 20 20:09:24 GMT+06:00 2025","passed","Fri Jun 20 20:09:29 GMT+06:00 2025","","Performance glitch checkout process","",""
+"","9671","Logged in with performance Glitch User and reset app state","","Fri Jun 20 20:09:09 GMT+06:00 2025","passed","Fri Jun 20 20:09:19 GMT+06:00 2025","","Performance Glitch user Login","",""
+"","5192","Should sort Z to A and add first product to cart","","Fri Jun 20 20:09:19 GMT+06:00 2025","passed","Fri Jun 20 20:09:24 GMT+06:00 2025","","Performance Glitch user Login","",""

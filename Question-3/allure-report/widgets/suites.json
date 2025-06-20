@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"b491ef75c9f6a46d254c04bb0ef4342a","name":"Performance Glitch user Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"b7fe51c00234e36a2e5d4d8a0118f340","name":"Performance glitch checkout process","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

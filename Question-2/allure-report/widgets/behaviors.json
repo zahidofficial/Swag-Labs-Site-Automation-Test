@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"f5786fdb7ea67764a02a0fdff68a89be","name":"Standard user Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"b11740891bc7e4c24e66d5ec89ddd56b","name":"E2E Checkout Flow","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
